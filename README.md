@@ -10,12 +10,12 @@ WebDriver is an open source tool for automated testing of webapps across many br
 Download the chrome webdriver here: https://chromedriver.chromium.org/downloads
 
 
-Base64 module allows for the script to This module provides functions for encoding binary data to printable ASCII characters and decoding such encodings back to binary data. 
+Base64 module provides functions for encoding binary data to printable ASCII characters and decoding such encodings back to binary data. 
 
 
 This is useful converting the canvas data to a png file.
 
 
-The next function merges those images by looping the interactions of the canvas images, that results in the final product a full osrs map with icons and detailed.
+The next function merges those images by looping the interations of the canvas images, that results in the final product a full osrs map with icons and detailed.
 
 Youtube Tutorial: https://youtu.be/fbgUzBb2JVg
