@@ -10,8 +10,9 @@ from PIL import ImageDraw
 
 def test_url():
     options = Options()
-    options.add_argument("user-data-dir=C:\\Users\\i7 8700\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1")
-    driver = webdriver.Chrome(executable_path=r"C:\Users\i7 8700\Downloads\chromedriver.exe", chrome_options=options)
+    user = "i7 8700" # change this to your windows username
+    options.add_argument("user-data-dir=C:\\Users\\" + user "\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1")
+    driver = webdriver.Chrome(executable_path=r"C:\Users\\" + user + "\\Downloads\chromedriver.exe", chrome_options=options)
 
     driver.get("http://curran.github.io/HTML5Examples/canvas/smileyFace.html")
     canvas = driver.find_element_by_css_selector("#canvas")
@@ -25,8 +26,9 @@ def test_url():
 
 def osrs_canvas_scrape():
     options = Options()
-    options.add_argument("user-data-dir=C:\\Users\\i7 8700\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1")
-    driver = webdriver.Chrome(executable_path=r"C:\Users\i7 8700\Downloads\chromedriver.exe", chrome_options=options)
+    user = "i7 8700" # change this to your windows username
+    options.add_argument("user-data-dir=C:\\Users\\" + user "\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1")
+    driver = webdriver.Chrome(executable_path=r"C:\Users\\" + user + "\\Downloads\chromedriver.exe", chrome_options=options)
     driver.set_window_size(10000, 10000)
     driver.get("https://www.osrsmap.net/")
     canvas = driver.find_element_by_id("map")
