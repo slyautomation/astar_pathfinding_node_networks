@@ -32,6 +32,8 @@ The blueprint for the nodes was provided by ollydev's github library: https://gi
 
 Once the node points and lines are plotted on the map the end product is a web of paths a player can take around most of Runescape.
 
+https://github.com/slyautomation/astar_pathfinding_node_networks/blob/main/RES_WALKER_NAMES_PATHS_AUG_2021.png
+
 ![image](https://user-images.githubusercontent.com/81003470/132083487-f959dd9b-e0fb-4f44-819f-4a620d870613.png)
 
 Youtube Tutorial: https://www.youtube.com/watch?v=W-ZAm7D7e2o
