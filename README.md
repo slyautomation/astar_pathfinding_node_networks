@@ -20,6 +20,8 @@ The next function merges those images by looping the interations of the canvas i
 
 The end result is a fully rendered old school runescape map.
 
+https://github.com/slyautomation/astar_pathfinding_node_networks/blob/main/world_rs_walker_AUG_2021.png
+
 ![image](https://user-images.githubusercontent.com/81003470/132083438-57e61393-68b4-4bba-95f0-a3b99f79864c.png)
 
 
