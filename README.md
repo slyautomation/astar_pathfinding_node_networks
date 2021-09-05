@@ -44,4 +44,4 @@ From the output we will use opencv to read the image map and take image snippets
 
 ![image](https://user-images.githubusercontent.com/81003470/132083506-912f65c4-b938-4582-bace-24e89d053984.png)
 
-Youtube Tutorial: https://www.youtube.com/watch?v=de2XpHu_fJk
+Youtube Tutorial: https://www.youtube.com/watch?v=RuTTs0RgZPo
